@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="color: #00aaff;">Thoeurn Ratha</h1>
-  <h3 style="color: #ff6f61;">Frontend Developer | Transitioning to Full-Stack Software Engineer</h3>
-  <p>📍 Phnom Penh, Cambodia 🇰🇭 | ✉️ <a href="mailto:your.email@example.com">your.email@example.com</a> | 🔗 <a href="https://linkedin.com/in/your-profile">LinkedIn</a> | 🐙 <a href="https://github.com/your-username">GitHub</a></p>
+  <h3 style="color: #ff6f61;">Software Engineer</h3>
+  <p>📍 Phnom Penh, Cambodia 🇰🇭 | ✉️ <a href="mailto:thoeurn.ratha.kh.com">your.email@example.com</a> | 🔗 <a href="https://linkedin.com/in/your-profile">LinkedIn</a> | 🐙 <a href="https://github.com/Ari-ICU">GitHub</a></p>
 </div>
 
 ---
@@ -22,8 +22,6 @@ Dynamic Frontend Developer with a strong foundation in computer science and a pa
 
 ### ⚙️ Backend & Systems
 - **Java (Spring Boot)**: Developing robust, secure APIs
-- **C# (.NET Core)**: Creating scalable backend solutions
-- **C++**: Optimizing performance for systems-level programming
 - **AWS**: Leveraging cloud services for deployment and scalability
 
 ### 🛠️ Development Practices
@@ -37,7 +35,7 @@ Dynamic Frontend Developer with a strong foundation in computer science and a pa
 ## 🧰 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=light" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,nest,js,html,css,tailwind&theme=light" alt="Frontend Technologies"/>
   <img src="https://skillicons.dev/icons?i=java,spring,cs,cpp&theme=light" alt="Backend Technologies"/>
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=light" alt="Tools & Platforms"/>
 </p>
@@ -47,13 +45,13 @@ Dynamic Frontend Developer with a strong foundation in computer science and a pa
 ## 🌱 Professional Journey
 
 - **Frontend Developer (Current Role)**  
-  - Designed and deployed responsive interfaces with **React.js** and **Tailwind CSS**  
+  - Designed and deployed responsive interfaces with **React.js**, **Next.js** and **Tailwind CSS**  
   - Improved application performance by 25% via code optimization  
   - Collaborated with UX and backend teams for cohesive solutions  
 
 - **Skill Expansion**  
-  - Building backend expertise with **Spring Boot** and **.NET Core**  
-  - Pursuing **AWS Certified Developer – Associate** certification  
+  - Building backend expertise with **Spring Boot** and **NodeJS**  
+  - Pursuing **AWS Certified Developer** certification  
   - Contributing to open-source projects to enhance collaboration  
 
 - **Education**  
@@ -68,10 +66,10 @@ Dynamic Frontend Developer with a strong foundation in computer science and a pa
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Ari-ICU">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:thoeurn.ratha.kh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
