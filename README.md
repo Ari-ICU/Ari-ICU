@@ -35,7 +35,7 @@ Dynamic Frontend Developer with a strong foundation in computer science and a pa
 ## 🧰 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nest,js,html,css,tailwind&theme=light" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,next,js,html,css,tailwind&theme=light" alt="Frontend Technologies"/>
   <img src="https://skillicons.dev/icons?i=java,spring,cs,cpp&theme=light" alt="Backend Technologies"/>
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=light" alt="Tools & Platforms"/>
 </p>
