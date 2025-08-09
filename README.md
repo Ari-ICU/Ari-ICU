@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="color: #00aaff;">Thoeurn Ratha</h1>
   <h3 style="color: #ff6f61;">Software Engineer</h3>
-  <p>📍 Phnom Penh, Cambodia 🇰🇭 | ✉️ <a href="mailto:thoeurn.ratha.kh.com">your.email@example.com</a> | 🔗 <a href="https://linkedin.com/in/your-profile">LinkedIn</a> | 🐙 <a href="https://github.com/Ari-ICU">GitHub</a></p>
+  <p>📍 Phnom Penh, Cambodia 🇰🇭 | ✉️ <a href="mailto:thoeurn.ratha.kh.com">thoeurn.ratha.kh.com</a> | 🔗 <a href="https://linkedin.com/in/your-profile">LinkedIn</a> | 🐙 <a href="https://github.com/Ari-ICU">GitHub</a></p>
 </div>
 
 ---
