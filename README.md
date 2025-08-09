@@ -46,7 +46,7 @@ Dynamic Software Engineer with expertise in frontend development, data analytics
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=light" alt="Frontend Technologies"/>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi&theme=light" alt="Backend Technologies"/>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins,vscode,postman&theme=light" alt="Tools & Platforms"/>
-  <img src="https://skillicons.dev/icons?i=plotly&theme=light" alt="Data Science & Visualization"/>
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=light" alt="Data Science & Visualization"/>
 </p>
 
 ---
