@@ -1,83 +1,84 @@
-<h1 align="center">Hi 👋, I'm THOEURN RATHA</h1>
-<h3 align="center">A passionate Frontend Developer from Cambodia 🇰🇭</h3>
+# Thoeurn Ratha
+**Frontend Developer | Software Engineer**  
+📍 Phnom Penh, Cambodia 🇰🇭
 
-<p align="center">
-  Enthusiastic about building beautiful, responsive, and user-friendly web applications. Always learning, always coding!
-</p>
+## Professional Summary
+
+Dedicated Frontend Developer with expertise in modern web technologies and a strong foundation in computer science principles. Committed to delivering high-quality, scalable solutions that enhance user experience and drive business objectives. Currently expanding skill set into full-stack development with backend technologies.
 
 ---
 
-### 🌐 Connect with Me:
+## Core Competencies
+
+**Frontend Development**
+- React.js ecosystem and component architecture
+- Responsive design with Tailwind CSS
+- Modern JavaScript (ES6+) and web standards
+- Performance optimization and accessibility
+
+**Backend & Systems**
+- Java development with Spring Boot framework
+- C# and .NET ecosystem
+- C++ for systems programming
+- Cloud services with AWS
+
+**Development Practices**
+- Clean code principles and design patterns
+- Version control with Git
+- Agile development methodologies
+- Cross-browser compatibility testing
+
+---
+
+## Technical Stack
+
 <p align="left">
-  <!-- You can add social icons here like GitHub, LinkedIn, etc. -->
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="30" />
-  </a>
-  <a href="https://facebook.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="30" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
 </p>
 
 ---
 
-### 💼 About Me
-- 🧑‍💻 I'm currently learning and building modern web applications using **React**, **Tailwind CSS**, and **JavaScript**.
-- 🌱 I’m currently diving deeper into **C#**, **C++**, and **Spring Boot** to expand my backend capabilities.
-- 💬 Passionate about clean code, performance optimization, and UX design.
-- 🏫 Studying Computer Science or related field.
-- 🇰🇭 Based in Phnom Penh, Cambodia.
+## Professional Development
+
+- **Current Focus**: Expanding backend development capabilities with Spring Boot and C# .NET
+- **Academic Background**: Computer Science studies with emphasis on software engineering principles
+- **Continuous Learning**: Staying current with industry best practices and emerging technologies
 
 ---
 
-### 🛠️ Languages and Tools
+## Connect & Collaborate
+
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-username" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="your-username-top-langs" />
-</p>
+## GitHub Analytics
 
-> 💡
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 ---
 
-### ✍️ Fun Fact
-```csharp
-Console.WriteLine("Hello, Cambodia!");
+## Open to Opportunities
+
+Actively seeking opportunities to contribute to innovative projects and collaborate with dynamic development teams. Interested in roles that leverage modern frontend technologies while providing growth opportunities in full-stack development.
+
+---
+
+<div align="center">
+  <i>"Committed to writing clean, efficient code that solves real-world problems."</i>
+</div>
